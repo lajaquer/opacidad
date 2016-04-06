@@ -5,5 +5,6 @@
 
 otra versio mas desde kyxi
 
+verificando comandos
 
-
+erros en git push
