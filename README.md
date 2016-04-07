@@ -14,5 +14,14 @@ es necesaria. #LaJaquerEsCool
 otra versio mas desde kyxi
 >>>>>>> 014bbd9357ccdc3dec6d58dd9dea40f4c6e1eadc
 
+verificando comandos
 
+La opacidad como manifiesto, cualidad, carencia de lo transparente en un mundo donde se juega a ser cristalinos.
+
+otra
+
+<<<<<<< HEAD
+erros en git push
+=======
 hjgkhgkjhg
+>>>>>>> e9d0031a5bef5eb73becd3c88b5201bf4ac6eeca
