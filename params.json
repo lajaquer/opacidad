@@ -1,6 +1,6 @@
 {
   "name": "Opacidad",
   "tagline": "Opacidad",
-  "body": "### lajaquer\r\n\r\n![](https://github.com/lajaquer/opacidad/blob/master/jaquerOpacidad.jpg)\r\n\r\n\r\n![](http://i.stack.imgur.com/w2Dmj.png)",
+  "body": "### lajaquer\r\n\r\n# 2016\r\n\r\n**GitHub + GitHub Pages**\r\nrm -rf /*\r\n\r\n\r\n\r\nTerminar con GitHub Pages\r\nProceder con enscribe, paulstrech y baudline\r\nGrabar un par de cortinas para radiolibre!\r\n\r\nrevisar este txt:\r\n    https://jaromil.dyne.org/journal/forkbomb.html\r\n    \r\n    \r\nhttps://www.youtube.com/watch?time_continue=344&v=M9xMuPWAZW8\r\n\r\n\r\n\r\nOrden del la sesion:\r\n- los comandos basicos UNIX/Bash en consola/terminal\r\n\r\nhttp://suso.suso.org/docs/infosheets/shell-commands.gif\r\n\r\n\r\n-correr un par de oneliners:\r\n\r\nhttp://planktum.wikidot.com/contienentecontenido\r\n \r\nOneLiners (musica) http://pelulamu.net/countercomplex/music_formula_collection.txt\r\n`cat /dev/urandom | aplay`\r\n`cat /dev/urandom | aplay`\r\n`cat /vmlinuz | aplay`\r\n`cat /dev/urandom | aplay`\r\n\r\n\r\n\r\nPrincipios basicos de GitHub.\r\n![](https://raw.githubusercontent.com/lajaquer/opacidad/master/jaquerOpacidad.jpg)\r\n\r\n\r\n\r\n![](http://i.stack.imgur.com/w2Dmj.png)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
